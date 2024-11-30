@@ -1,0 +1,25 @@
+The Unfortunate Decision Process That Is Leading to AI Deployment Failures
+When implementing a new technology, you need a deep understanding of the problem you want it to solve.
+
+By Rob Enderle
+Reports continue to highlight that between 85%and 90% of AI deployments are failing. This isn’t unusual. I recall similar reports from the mid-1990s that indicated closer to 100% of client/server projects failed. That was around seven years after everyone and their brother, including IBM at the time, thought client/server computing was a real revolution and it was time to toss out all the mainframes. It should be noted that mainframes remained IBM’s most profitable product for much of the following four decades.
+
+Technology feeding frenzies are a dreadful thing. I recall the Windows 95 roll out and how excited the market was to deploy the product on announcement. I put Windows 95 on my CEO’s laptop and turned it into a useless brick, which didn’t exactly enhance my career. Much worse, some Intel engineer put it on a fabrication management machine and crashed the entire line. It took two weeks to recover and cost Intel millions. 
+
+It is great to get excited about a new technology, but deploying it before you understand it will most always result in failure. Right now, there are really only a handful of companies that are AI experts. Even Microsoft, which was responsible for the current wave, is mostly getting its AI technology from smaller companies such as OpenAI, so its AI PC effort is a bit of a mess as a result. Still, Microsoft is more knowledgeable than most. The number of poorly thought through AI solutions currently in the market is frightening because the companies launching them don’t yet understand the technology or how to use it. Just ask them how they are using it internally and you’ll get a blank stare as a response.
+
+You don’t start with the tool and then back into problems. If you want a successful outcome, you start with the problem and then choose the tool. There are a growing number of impressive-looking AI models coming to market, but few people understand these tools and how to use them to solve your problems.
+
+We are seeing strong demand to buy AI without the underlying indication that the people making these demands understand the problems they want AI to solve, let alone which of the growing number of tools they’d use to solve them.
+
+The Informed Buyer Is the Successful Buyer
+
+The fast food industry presents an interesting example because it has a huge problem right now in terms of both staffing and employee safety. Staff at fast food restaurants are regularly treated with abuse, they tend to be underpaid and undertrained, and some of the equipment they use (mostly deep fryers) is relatively dangerous and results in expensive injuries.
+
+The industry is moving to replace workers with AI and automation because they have a clearly defined problem, but they are starting with trials similar to Amazon’s Amazon Go automated store trial that partially failed recently. Failure at a small scale during the proof-of-concept phase is certainly far better than failure at a large scale after full deployment.
+
+The fast food industry started looking at this problem years ago, collaborated with the vendors to create the solution for what was a well-defined problem, and then started with proofs of concept to confirm that their perceptions of what customers wanted were in line with reality before full deployment. This approach better assured a positive result.
+
+Wrapping Up
+
+The lesson here doesn’t just relate to AI but to any exciting new technology. The lesson is that you want to make informed decisions and then use vendors who aren’t learning on your nickel. This means you need a deep understanding of the problem you want the technology to solve. You need a vendor partner who both knows your industry and the technology you are considering, and you need enough internal knowledge of the proposed technology to make an informed decision. If any of these elements aren’t in place, the result will fail to meet objectives and you’ll be responsible for yet another expensive failure.

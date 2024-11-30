@@ -1,0 +1,38 @@
+Machine Learning and AI with Keith McCormick
+From machine learning and transparency to unstructured data and career advice, data scientist Keith McCormick shares his insights on what’s worth paying attention to in the world of AI.
+
+In the latest Speaking of Data podcast, Keith McCormick, an executive data scientist at Pandata, shared his opinions and recommendations about machine learning, AI, and transparency, along with some career advice. [Editor’s note: Speaker quotations have been edited for length and clarity.]
+
+McCormick explained that when he sits down with clients, he first points out there are a lot of new topics lately and though they're all exciting, applications such as scoring marketing leads, detecting fraud, and detecting anomalies have been going on not just for years but for decades. That continuity is important because you don't have to reinvent the wheel, and you don't have to reconceptualize these problems with the latest techniques. These are familiar use cases.
+
+“I think everybody senses that we're going through something new. Even though I can look back over all these years and see some continuity, there’s clearly something going on that has everybody's attention, and it’s not just hype. How can you separate what can be a little bit dramatic from the reality?
+
+“One of the things that I get a chance to talk about in my courses is how important 2012 was. That’s when there was a big, big event called the ImageNet Competition [a visual-recognition challenge]. It was the third year of the competition and deep learning was a big deal because it thoroughly beat the previous techniques. Is that a chair, a bicycle, a cat, a dog, or a hot dog? I'm not sure how important the hot dog was to ImageNet, but it's certainly important in pop culture, that you can correctly identify hot dogs.” This sparked a great deal of excitement about deep learning at the time.
+
+When McCormick talks to clients about their problems today, “there’s this level of excitement. I’ll be approached and told ‘My boss has asked me to find a way to use large language models in our organization. We don't know what we want to do, but our boss really wants us to do something.’ That's not how you're supposed to start the conversation. You're supposed to start the conversation with ‘We have problem X, and given your experience, what would be the best way to tackle it?’ It might, indeed, be a large language model, but you must start with the problem. You can't start with ‘Wow, we really wish we had a use case for large language models, because everybody seems to be using them, and we don't want to be left behind.’”
+
+Structured and Unstructured Data
+
+Deep learning has made enormous strides, as have chatbots. These technologies share one thing in common: they work with unstructured data. “The stuff I've been doing since the 1990s is all structured. It's one row per insurance claim, one row per customer. That hasn't gone away, so that's why I sometimes sit down with a client and conclude that old school -- or what I call traditional -- machine learning techniques absolutely fit the bill. If I'm talking to somebody about security in a museum or drone delivery -- that's not structured data. How are you going to get the information that it takes to fly under a bridge to see where a crack might be? How does that fit in your Excel spreadsheet? It doesn't. We're talking video that has to be annotated.”
+
+McCormick thinks it's fair to say that “there are probably more organizations that should be focused on their structured data. Nonetheless, we're heading in a direction where everybody's going to have a mix of use cases, and it's probably going to be in different teams. Just like we have BI and data science, there's going to be a day in the not-too-distant future where we have an AI team and a traditional machine learning team.”
+
+Responsible AI and Transparency
+
+The newer techniques McCormick was talking about produce complicated models, and responsible AI involves many things. “Certainly, there's ethics involved, and the potential for bias, whether you're talking about favorable rates on a mortgage or an insurance policy. However, I think most people have read quite a bit about that aspect of it. Most fundamental to responsible AI is model transparency, because if the model is opaque -- the so-called black box models -- you really can't avoid such things as bias.” 
+
+There are other problems with a lack of transparency. Without transparency, it's hard to know when the models make mistakes and why they're making them. There are hallucinations to consider. Thought leaders say that we really don't fully understand how the big foundation models work. That’s why when McCormick works with clients, he seeks that transparency, even when the company is not required to have transparent models. “In healthcare, transparency might be a condition of the project, but for many clients, who don't have some regulation forcing them to have model transparency, it’s still important to think about model transparency.
+
+“There is a set of techniques called explainable AI where you can try to pull out of the model reasons why a particular prediction was made. When customers apply to refinance their mortgage and are denied, they may be given a reason code they can look up on the web. That's an example of explainable AI that's been around for a long time. Within the last five years -- it really has been that recent -- there's been an explosion in these explainable AI techniques.
+
+“Deep learning is always opaque. Deep learning is the engine and explainable AI is the caboose -- it's getting pulled right along. More people need these explanations because they're building complex models. It's just a matter of time before there are more regulations around explainable AI.”
+
+Career Advice
+
+When asked what advice he has for aspiring data scientists regarding machine learning, McCormick said that many newly minted data scientists (or people thinking about a career change) might be surprised by his list because his advice is about the most foundational things.
+
+First, he recommends aspiring data scientists understand linear regression. “It sounds so old school, but if you don't really understand linear regression -- thoroughly understand it -- you can't truly understand what neural nets do and why neural nets are able to figure out things without a lot of human help.”
+
+Also on his list: understanding decision trees. “A bit mundane or old school,” he admits, but he still teaches the topic because “decision trees are still useful in their own right. Even if someone is skeptical and says they want to use something a little bit fancier and beef up their portfolio, I want to explain that you can't understand random forest and XGBoost, which are two of the most powerful contemporary algorithms out there, without understanding decision trees.”
+
+Concluding his advice: a topic he says doesn't get enough attention. “Know the machine learning life cycle. I'm a big fan of the cross-industry standard process for data mining (CRISP-DM). Even if you're alone on a team, you have to manage the project, and if you're running a team and there are two or three data scientists working together, you must have a structure to go through this journey. Regression, decision trees, and machine learning life cycle are key.”

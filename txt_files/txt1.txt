@@ -1,0 +1,42 @@
+Artificial Intelligence Versus the Data Engineer
+Does generative AI change the role of the data engineer? As the demand for AI skyrockets, so does the demand for data and data engineering.
+
+By Ed Thompson
+Every decade or so there has been a technology that drives a tectonic shift in the way we work, the way we live, and the way we play. Some fads have been and gone (Web3 anyone?); however generative AI has the potential to be one of those paradigm-shifting technologies, not least for the data engineering world.
+
+At its simplest, there is no AI without data. In reality, there is no AI without good data. And there is no good data without data engineers. So, as the demand for AI skyrockets, so does the demand for data and data engineering.
+
+It’s worth noting that there is a misconception that AI can prepare data for AI, when the reality is that, while AI can accelerate the process, data engineers are still needed to get that data in shape before it reaches the AI processes and models and we see the cool end results. At the same time, there are AI tools that can certainly accelerate and scale the data engineering work. So AI is both causing and solving the challenge in some respects!
+
+So, how does AI change the role of the data engineer? Firstly, the role of the data engineer has always been tricky to define. We sit atop a large pile of technology, most of which we didn’t choose or build, and an even larger pile of data we didn’t create, and we have to make sense of the world. Ostensibly, we are trying to get to something scientific. A number, a chart, a result that we can stand behind and defend—but like all great science, getting there also needs a bit of art.
+
+That art comes in the form of the intuition required to sift through the data, understand the technology, and rediscover all the little real-world nuances and history that over time have turned some lovely clean data into a messy representation of the real world.
+
+The real skill great data engineers have is therefore not the SQL ability but how they apply it to the data in front of them to sniff out the anomalies, the quality issues, the missing bits and those historical mishaps that must be navigated to get to some semblance of accuracy. For this reason, data engineers need three increasingly hard-to-master skills.
+
+The simplest: they need to be able to construct data queries for both discovering and understanding their data and also for transforming it into a form they can use.
+They need a deep understanding of the technology at their disposal, everything from the way change data capture is set up on Oracle to the record ordering guarantees in Kafka through to the most efficient way to partition data in an iceberg table and everything that glues all that together.
+The thing that really requires experience: they need an intuitive nose for data quality—past, present, and future. How was a data set built? How has it evolved over time? What mistakes have been made in the past and what mistakes are likely to be made in the future?
+What’s exciting for us beleaguered data engineers is that AI is showing great ability to be a very helpful tool for these hard-to-master skills that will ultimately make us better and more productive at our jobs. We have all, no doubt, seen all the great advancements in AI’s ability to take plain text queries and turn them into increasingly complex SQL, thus lightening the load of remembering all the advanced syntax for whichever data platform is in vogue.
+
+Generative AI’s infinite ability to absorb and digest technical knowledge about complex systems is a fantastic aid for the second-hardest skill, and it can quickly accelerate our knowledge of that funky new NoSQL database we just learned we need to integrate with.
+
+Surely, however, the most exciting innovations come from LLMs’ (large language models) rapidly increasing ability to understand the meaning and nuance of the data itself. This is being driven by two evolving technological advancements:
+
+The LLM’s ability to think laterally—an arms race kicked off since the release of ChatGPT a year and a half ago.
+The ever-increasing amount of context that the LLM can reasonably read through to get to an answer.
+Together these are increasingly giving the LLM the power, with guidance, to understand a real-world data set, what can be done with it, and what the problems might be.
+
+I am not among the doom-mongers predicting the imminent end of the data engineer usurped by a general intelligence capable of doing all of the above. It seems silly to predict the future when there is a mountain of pressing data problems in every organization that need to be fixed today, all of which are exacerbated by the increasing demand from AI.
+
+What I do wonder is how we begin to bring generative AI tools into data engineering when there is such a doom-mongering narrative and data engineers are already overstretched with ever-increasing workloads? The irony is we don’t have time to explore tools that will boost productivity and save time.
+
+When you think about it this way, perhaps it is more of a change management challenge than a technical challenge. I do wonder if we could combat the anxiety of “AI stealing jobs” and explore how AI can support and accelerate roles, we’d be able to do so much more with the technology.
+
+As it stands, and for the foreseeable future, generative AI cannot replace human roles. If the data feeding the model is not 100% accurate, you will see hallucinations. Precision isn’t within AI’s wheelhouse right now. What AI is fantastic at is speeding up processes, taking away the busywork that prevents people from doing what they do best—problem-solving, being creative, tackling high-value tasks.
+
+For me, having a tool that can remove the mundane tasks that take far too much time is ideal! The AI tooling I already use day-to-day gives me the freedom to work on the things that light my fire, that add real value to the business, and that need a human in the loop and always will.
+
+It is exciting to explore what is possible, and what becomes possible as the tech evolves so quickly. Whilst on the reverse of the coin, I understand why many data engineering teams are hesitant or simply don’t have capacity to introduce the tools, I think we’re on the precipice of a truly exciting era for data engineering.
+
+Rather than AI versus the data engineer, perhaps we should be talking about AI with the data engineer.

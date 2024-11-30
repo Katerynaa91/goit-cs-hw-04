@@ -1,0 +1,40 @@
+Lessons Learned from Facebook’s Poor AI Implementation
+AI implementations will be more successful if you follow these three tips.
+
+By Rob Enderle
+I just finished recording a radio spot talking about why Meta (Facebook), which is considered to be one of the leaders in AI, is doing such a poor job with its implementation. Learning from others is considerably less expensive than learning from your own failures. Let’s talk about Facebook’s failure and how to avoid making the same mistakes.
+
+Facebook has several significant advantages in terms of building AI training sets and is led by a founder who understands the technology because he was involved in creating it, so it should be an example of how AI could be deployed. Unfortunately, that’s not the case.
+
+Here are three tips that will help AI implementations succeed.
+
+Don’t Put AI in the Way of Experienced Users
+
+With any application, users have different skill levels. AI is particularly helpful for people who are new to an application by helping them navigate the user interface (UI) and getting them to the result they want more quickly. However, with experienced and even expert users, much like it was with those who were competent with command-line interfaces when graphical user interfaces (GUIs) came to market and GUIs got in their way, Facebook’s AI implementation is getting in the way and slowing down users who were good at using Facebook’s previous interface.
+
+Back when Windows 95 first came to market, I had a meeting with Apple during which the company announced its implementation of a new command-line interface. I said that was nuts because Apple’s users were used to GUIs. A command-line interface would use different commands, so it would do little to attract DOS users who didn’t like Windows (which had, and still has, a command-line interface). All it would do was further upset Windows users.
+
+The first lesson here is: Don’t forget your strong users. Give them a straightforward way to get back to the interface they prefer. Don’t reduce their productivity in order to help users who don’t yet have (and will never develop) skills to work with the older interface.
+
+Don’t Release Improperly or Incompletely Trained AI
+
+Facebook’s one huge advantage with AI is that it should know more about its users than almost any other application developer because its users share their likes, dislikes, hobbies, work, relationships, political affiliations, and interests to far greater degrees due to the nature of social networking.
+
+Yet whether it is using AI for advertising or to surface interests, Facebook’s AI implementation is doing a horrible job of targeting users with ads and content. This is the result of a poorly or inadequately trained AI. Given Facebook’s data access on its users is unprecedented in its completeness, this can’t be a data access problem. It’s a training problem.
+
+Implementing a poorly trained AI results in an extremely poor user experience and will create a negative impression not only of the app but of the AI tool in general. If it improves, that improvement will be filtered through the users’ prior bad impressions. Where they might have been neutral on AI use prior to using the poorly trained or created tool, after using the tool, they’ll hate it and may avoid it in the future. This means Facebook’s effort to get people to use AI tools is getting harder because it’s alienating users with a poor implementation.
+
+The lesson here is: Don’t deploy an AI tool until it works. This should be true of any application improvement.
+
+Entice, Don’t Force
+
+When users are forced to make a change, they tend to resent and resist it. When they are encouraged to make a change and are prepared for a positive experience, the outcome tends to be positive. Take Windows 95, for instance. People hated getting operating system updates and going through the pain of having to load and set up their applications. However, after a nearly $800M marketing campaign (in today’s dollars), people lined up to buy the new OS and aggressively put it on multiple PCs.
+
+Forced change tends to end badly. Recall the failed Windows 8 roll out with a new interface that was poorly marketed; it failed because people rejected it. This was in sharp contrast to a decade earlier and Windows 95’s initial success, thanks in part to a marketing blitz to build excitement and interest. Windows 8 was a push effort which forced its users to move whether they liked it or not, and it failed.
+
+A Final Word
+
+What I’m talking about here isn’t rocket science. To get the largest initial buy-in and advocacy, you want any major change to help, or at least not hinder, your heavy users; you’ll want it to work as intended so you don’t anger everyone; and you’ll want users to want to use it, not feel as if they have no choice.
+
+AI can significantly improve the user experience, but because Facebook executed it badly, it is currently having the opposite effect. This is a mistake that should be easy for your organization to avoid.
+

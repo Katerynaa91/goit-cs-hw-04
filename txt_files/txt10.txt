@@ -1,0 +1,40 @@
+Can Synthetic Data Jumpstart Your Strategic Projects?
+Don’t let sparse data derail your analytics projects. Synthetic data can fill the gaps, but choosing the right generation method is key. Explore rule-based, statistical, and GAN approaches -- with their benefits and trade-offs.
+
+In a world where data is paramount to the success of many analytics projects that drive business strategy, teams are often faced with the challenge of data sparsity. This is where the data available is simply not sufficient to train the necessary models needed to support business decision-making activities.
+
+Under these circumstances, teams must decide how to proceed. They can delay the project until they have more data, they can actively work to procure data from other sources to decrease the sparsity, or they can consider creating synthetic data. With the missed opportunities and expenses associated with the first two options, teams are increasingly looking to the third option as a solution.
+
+As teams decide to generate synthetic data, they must decide how to proceed. There are three main routes: rule-based, statistically similar, and generative adversarial networks. Each route brings with it benefits and challenges.
+
+Rule-Based
+
+The go-to for many teams commencing a synthetic data–generating project is to examine what rules govern the existing data and mimic them in the systematic creation of new data. This often includes taking the existing sparse data set, replicating the instances of data, applying different rules to each duplicate to slightly alter it, and then creating a new set of records. From a single set of instances, the output can be significantly multiplied. The data duplication follows a linear growth pattern based on the number of rules programmed into the system. This can be an easy method to keep known relationships within the data intact.
+
+The challenge associated with rule-based synthetic data generation is that it has limits regarding scalability. Scalability is linear, based on the availability of rules. Each rule needs to rely on expert knowledge about what the data means, what it represents in real life, and the possible potential options that could be deemed valid as an output record.
+
+Statistically Similar
+
+As teams mature, their techniques for generating synthetic data also mature. The next step is often to statistically identify patterns within the data. This often requires using a limited set of attributes within the data to create a model that represents a micro-view of what is happening in the larger data set. This can include modeling the distribution of specific attributes and using decision trees to simulate the rule-based approach. Using decision trees relies less on expert knowledge to determine how data is split and more on statistical probability. The decisions, or rules, are a result of segmenting the data to cleanly subdivide the existing data into groups.
+
+With less human intervention required, these models can be scaled more quickly and don’t require as much business knowledge to get them working. Combining multiple statistical models representing different facets of the data can greatly, even exponentially, increase your output of synthetic data.
+
+The challenge associated with statistical modeling as a method of generating synthetic data is that it heavily relies on the state of the input sparse data. Statistical models can only cover relationships within the existing data set. Unlike the rules-based approach, there will continue to be gaps based on business knowledge that are not currently reflected within the data set.
+
+Generative Adversarial Network (GAN)
+
+As teams strive to scale beyond what the rules-based approach and the statistical approach can deliver, the next step is developing and deploying a GAN. A GAN leverages statistical and mathematical methods to create an automated generator of synthetic data. At its core, the GAN uses two models -- a generator and a discriminator.
+
+The generator is a model that leverages the sparse input data and different statistical-based models, such as variational autoencoders (VAE), to generate large quantities of synthetic data. The discriminator then evaluates the new data set, which is comprised of real data and synthetic data, trying to guess which is synthetic. The lessons learned from what the discriminator guesses correctly as synthetic data are then fed back into the generator to adjust and try again.
+
+It becomes an iterative approach where the generator continues to learn how to create synthetic data that appears more like the real data. The level of realism associated with the synthetic data is contingent on how long the team can allow this iterative approach to continue.
+
+In the end, the GAN can produce realistic synthetic data that mimics the real data in many ways. It can even start producing synthetic data with use cases that would have never been imagined using the rules-based approach.
+
+Unlike rules-based and statistically similar approaches to generating synthetic data, GANs have a wider set of use cases. GANs are not limited to tabular, text-based data and can be used for generating images and full-text output.
+
+The challenges associated with GANs are that they are complex to implement and maintain. The computing power associated with this process of continuous improvement can be substantial and can overburden the project that needs synthetic data.
+
+Final Thoughts
+
+As an analytics team, you will have to decide what the state of sparsity within your current data is, how vital it is to have a complete and robust data set, and what you are willing to do to complement your real data with synthetic data. As more companies adopt synthetic data and its benefits, once-unattainable projects can become feasible. Companies can focus on their business strategy and not hold up the lack of data as a reason to not pursue their analytics projects.

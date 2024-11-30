@@ -1,0 +1,37 @@
+Real-World Techniques for Machine Learning with David Langer
+David Langer discusses four easy-to-learn, state-of-the-art, real-world techniques that will help you get value from machine learning.
+
+By Upside Staff
+David Langer returned to TDWI’s Speaking of Data podcast to talk about real-world techniques for machine learning. Langer has been a tech professional for almost 28 years; half of that time has been spent in hands-on analytics roles. He’s currently an independent consultant and trainer with TDWI, where he focuses on practical data science skills. [Editor’s note: Langer will be teaching a machine learning bootcamp for TDWI on June 24–26, 2024.].
+
+His previous appearance on Speaking of Data focused on data literacy, and he says that is still a big part of his practice. However, given what's been going on over the past year, he’s seen demand shift toward more advanced analytics, including using AI to be more productive.
+
+Langer points out that ChatGPT is a very sophisticated machine learning model. “It's very powerful, but technically it is a machine learning model.” Langer’s work focuses on the subset of machine learning techniques that are disproportionately useful for most organizations. Rather than focusing on Microsoft’s Copilot (which he says is the company’s ChatGPT integration into Excel), he thinks it’s more important to understand how AI and machine learning work.
+
+“If you ask Copilot to ‘Generate a predictive model based on the data in this particular table in my worksheet in Excel,’ it will certainly do that for you -- it will produce Python code. However, if you don't understand the Python code, and if you don't understand the modeling process or what it's actually generating, you're asking for a world of hurt. 
+
+“You can certainly use Copilot and generative AI to accelerate these things, but you still have to learn the fundamentals first.” That’s why he focuses on practical machine learning approaches -- the tools and techniques valuable to any professional no matter where they work.
+
+The single most common use case for machine learning/AI is to create models that predict labels. For example, is this customer going to convert?
+
+“Let's say you're trying to predict gold medal winners at the Olympics. You'd be predicting bronze, silver, gold, and no metal -- that's four different things you're trying to predict. In machine learning terms, you’re classifying data. I'm trying to predict a ‘class,’ a label, and that is by far and away the single most ROI-packed advanced analytics scenario for any organization. I train people to build these kinds of predictive models that do these classification problems.”
+
+Four Fundamental Techniques
+
+The single best technique is based on decision trees and random forests. “They're state of the art,” Langer claims. “They're super easy for people to learn, and they're super valuable.” A four-hour TDWI course he offers teaches students “the basics of Python, everything they need to know from the ground up, assuming no programming background whatsoever -- just the subset of Python they need to be productive.”
+
+That perspective is also applicable for Excel users, Langer explains. “If you've ever written an Excel formula, you've written code, whether you think of it that way or not. It's all pretty much the same. When you think about using Python for analytics and data science, you're not actually engineering software from scratch, so you ignore all that stuff. You just focus on how to use the tools to get stuff done, which is very analogous to using Excel formulas.”
+
+To get the highest ROI from traditional machine learning, what should enterprises be focusing on? “You don't need to learn a whole bunch of things to actually be radically productive to begin with. Most people look at a book and think, ‘Oh, my goodness, there are 50 different types of machine learning techniques in here. Do I have to learn all of them?’”
+
+Langer’s answer is a definite “no.”
+
+“There are essentially four fundamental techniques that you need to learn in the beginning,” starting with decision trees, which are just individual trees, like little nodes of yes/no decisions. “If you've ever seen an org chart, that's what a decision tree kind of looks like. Using decision trees is intuitive, so you learn the basics of machine learning focusing on decision trees.
+
+“You can then use that knowledge to bootstrap up to what's called a random forest, which is just a collection of individual decision trees. Random forests are a production-quality, state-of-the-art machine learning algorithm, and they're really, really simple for people to learn how to use. You don't have to be a math genius (or even a math novice) to understand how they work, yet random forests give you all that power.”
+
+Decision trees and random forests are what's known as supervised learning. “I can use them to predict those labels I was talking about. The next branch of machine learning that's very useful is clustering. I have a pile of data, you have a pile of customers, I have a pile of patients or insurance claims, whatever that pile of documents might be. I want to extract some hidden structure out of that data. I don't want to have to read through a thousand documents to understand what they're all about. Can I use the computer to group those and say, ‘Hey, those documents are all like these documents over here’ and help me out with that. That's what clustering -- cluster analysis -- is all about, which is a type of machine learning known as unsupervised learning.”
+
+Two of the most popular unsupervised clustering algorithms are k-means (which Langer says is extremely easy for anybody to learn how to do) and DBSCAN.
+
+“Those four things are enough to get you started and that's what we focus on in our TDWI machine learning bootcamp. They are easy for a broad audience to learn. They're state-of-the-art and they allow people to hit the ground running when they get back to work and actually do something that produces value.”

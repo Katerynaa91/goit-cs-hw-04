@@ -1,0 +1,41 @@
+Our Cloud Migration Story: Challenges Faced and Lessons Learned
+Moving to the cloud brings numerous benefits, but there are challenges you must overcome. Here is one company’s experience.
+
+By Derick Ohmar Adil
+Migrating to the cloud is a significant step for any company, promising advanced technology, improved data capabilities, and cost efficiency. However, the journey is not easy as it may seem and comes with several challenges. In this article I will discuss the key challenges we faced and the valuable lessons from our cloud migration journey.
+
+Challenge #1: Unmonitored Costs
+
+When we started the migration, we did not have a solid process in place to track and report our cloud usage; it simply was not a priority. We were more excited about our initial move to the cloud than the ongoing costs, resulting in a 30% overrun in our project budget within the first 3-4 months. It was only after being alerted to our budget overruns that we recognized the importance of closely monitoring our expenses to ensure we stayed within our budget.
+
+We discovered that many services were running continuously and without optimization, contributing to the high costs. To address this, we set up a FinOps team to monitor and analyze cloud expenditures weekly. The process identified unused and underutilized resources, implemented auto-scaling policies, and went so far as to negotiate with our cloud providers. This process helped us get back on track and reduce costs by 20% in the following quarter, and by almost 50% in the next year.
+
+Challenge #2: Lack of Stakeholder Engagement
+
+Before the migration, we did not engage all relevant stakeholders, which resulted in misalignment in terms of approach, confusion about the scope of work and approach, and a misunderstanding about our expectations of users in testing, which resulted in a delay of the original project delivery date. For instance, we had not been fully transparent to the finance team about the cost implications of the new migration approach, leading to budget overruns.
+
+To correct this issue, we organized regular meetings with leaders and working teams from IT, finance, business units, and operations to discuss migration progress and challenges. We also sent out bi-weekly updates and created a detailed FAQ document addressing common concerns from a business lens to manage changes that will impact how users would consume and receive their data and reports. Improved communication and timely feedback ensured that all stakeholders understood and were aware of the approach, even after we shifted from a staggered/phased approach to a one-time drop. The communications plan also includes the support and enablement that the project team will provide post-migration. This is important to note, not just for a migration project like this, but in general, to always keep stakeholders involved in the process.
+
+Challenge # 3: Migration Process Bottlenecks
+
+Due to the inadequate monitoring at that time, we were forced to implement drastic cost cutting measures that resulted in unplanned workloads and activities. For instance, we deliberately paused data flow testing activities to save on cloud costs, leading to poor data quality and extended timelines due to additional validation needed. Also, some pre-migration activities did not proceed as planned, from simple tasks such as resource identification and availability at the onset of the project to more complex issues requiring a shift in approach (from a direct lift-and-shift approach and phased deployment to refactoring codes and just-in-time deployment).
+
+To mitigate the effects of these bottlenecks, we not only changed our migration approach but also got directly involved. We assigned our own talents to take the lead and perform the migration, from coding to testing. Although this didn't accelerate the delivery significantly, it did help us control the growing cloud costs.
+
+Challenge #4: Resistance to Change
+
+Many team members initially resisted adopting new cloud tools, which slowed down the migration process. For example, some users continued to rely on legacy systems because they were unfamiliar with the new platform.
+
+To address this, we initiated a comprehensive training program that included onboarding sessions, workshops, and ongoing learning resources. This effort significantly increased user comfort with the new tools and boosted productivity. Within three months, the adoption rate of the new cloud tools rose by 40%. Now, we are in business-as-usual mode, with everyone fully trained.
+
+This is not a one-time event; as we continue to explore new technologies, we collaborate with our cloud provider partners to make sure that any changes align with our people and business objectives, the primary drivers of these changes. When we change the technology, we ensure that the new tech we select aligns with the requirements of the people involved. We don't get new tools and technologies simply because they are new toys; we choose them because they solve specific business problems. When we get ourselves into new technology, we also ensure that our team is trained and enabled. Part of our process for every new technology we adopt includes making sure our talents are well-prepared and that we measure success by the adoption and effective use of these technologies.
+
+Challenge #5: Maintaining Data Quality
+
+Ensuring data quality during the migration was a major challenge. The just-in-time deployment brought up validation and data issues. For instance, some critical business reports showed discrepancies due to incomplete data transfers or duplicate records. We implemented automated jobs to profile and measure data quality continuously. These tools helped identify and resolve data issues in real time. Also, we established clear data governance practices and involved data stewards in the migration process. This approach ensured that data remained accurate, reliable, and fit for purpose. As a result, data quality issues were reduced by 50% within the first month after the migration.
+
+Data quality is a process, not just a single metric owned by the Data Office. Data quality should be an enterprise-wide metric for which we all share responsibility. Although the method or approach to ensure data quality may change over time, the importance of quality remains the same. This is especially true now that we treat data as a product, where usability is tied to quality.
+
+A Final Word
+
+Migrating to the cloud is a complex journey filled with challenges. However, each challenge presents an opportunity for learning and improvement. By addressing issues such as unmonitored costs, lack of stakeholder engagement, process inefficiencies, resistance to change, and data quality, technology companies can navigate the complexities of cloud migration more effectively. Embracing these lessons will ensure a smoother migration process and unlock the full potential of cloud technology.

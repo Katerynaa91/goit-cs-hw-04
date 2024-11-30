@@ -1,0 +1,29 @@
+What Generative AI Means for Data Jobs
+The technology-will-steal-your-job narrative has been around for at least 200 years. Some roles do disappear, but most simply evolve, adapt, and merge.
+
+By Jignesh Patel
+The perennial question in every computing job is how long it will exist. Whether they say it openly or not, companies that invest in automation, robotics, and AI intend to replace human labor hours with inexpensive machine labor. That doesn’t mean they won’t create other jobs, but it does mean some roles could cease to exist eventually, including those of data professionals.
+
+I don’t agree with job doomsayers who believe we’ll all be living off universal basic income, but I do think AI will change the roles and nature of data work. Far from shrinking demand for data talent, AI will expand it to the point where data literacy becomes comparable to typing, a skill everyone in an office is expected to have.
+
+The three classic data roles -- data analyst, data scientist, and data engineer -- are already blurring. They were always ill-defined and based largely on who uses which tools. The analyst used SQL, data warehouses and lakes, and applications like Excel and Tableau. Data scientists, brethren of computer scientists, were those who coded in Python. Data engineers knew how to clean data, set up ETL (extract, transform, load) pipelines, and build machine learning pipelines.
+
+Separating those functions is no longer an efficient way to work. Everyone touching data needs some SQL, some Python, and some engineering skills. However, thanks to generative AI, they don’t necessarily have to learn those skills from scratch.
+
+Think of it this way: In 2003, after author Michael Lewis published Moneyball, the story of the Oakland Athletics’ data-driven approach to recruitment, other professional baseball teams copied them. The industry hired statisticians and quantitative analysts (aka “quants”) who didn’t necessarily know much about baseball but knew how to identify undervalued talent using data.
+
+Industries that likened themselves to competitive sports teams -- commodities and stock trading firms, for instance -- tried to Moneyball their industry, too. There weren’t enough quants to go around. The dearth of data pros was central to the old “talent wars” storyline hyped by business magazines and consultancies.
+
+Some 20 years later, the Moneyball skill set is widely available. The National Center for Education Statistics reports that the number of universities offering master’s degrees in data disciplines grew from six in 2010 to 185 in 2022. Encoura, a marketing and enrollment platform for universities, finds that degree completions in data analytics and science grew from 5,604 in 2012 to 42,408 by 2021 -- an increase of more than 750%. At Carnegie Mellon University, where I teach, data science classes are among the most popular on campus for students in every major.
+
+Today, an MLB team can easily hire a former college baseball player who knows the mechanics of the game, the questions to ask, and ways to apply data insights -- and thus has a good high-level way to blend the data trends with business acumen. New generative AI tools will make the technology side even easier to use and fill even more gaps in their technical skill set. Whatever label this role takes, it will involve a mix of analysis, science, and engineering work.
+
+To be clear, the most complex data problems still require a data specialist. In the same way that Squarespace made everyone good enough (but not great) at website design, generative AI will make people good enough at data work. For something special and custom, be it a website or data analysis, organizations still need a true pro. Sometimes, the AI platforms that promise to “democratize” skills also “mediocritize” them. That’s not necessarily a bad thing if, ten years prior, a data skills shortage impeded progress.
+
+Deep data scientists and data engineers are not replaceable. That said, many people without the word “data” in their title are already doing analytics and data science work on a regular basis to answer questions and inform decisions that can’t wait for a pro. Speed matters because the value of data can decay over time. A prediction about events 20 hours into the future is worth $0 after 24 hours. 
+
+If 80% of data work is accessible to the generalist and only 20% requires a data specialist, that, roughly, is what the proportion of data talent will look like at a company. Titles such as “machine learning engineer” or “AI engineer” might emerge to differentiate the five-star data scientists from the data-literate generalist. A risk is that businesses, overconfident in generative AI, will overcorrect and slash their data teams to a point that benefits their competitors.
+
+The ubiquity of data skills, human and machine, is not a threat to data specialists. Rather, it will make the specialists more impactful and respected. Today’s data specialist sometimes struggles to find business colleagues who speak their language and understand their methods. Data fluency and literacy in business will lead to more analyses and forecasts and, perhaps, fewer opinions and gut instincts.
+
+The technology-will-steal-your-job narrative has been around for at least 200 years. Some roles do disappear, but most simply evolve, adapt, and merge. The only guarantee against being in an obsolete job role is to learn new skills continuously. That is true in every field and role. 

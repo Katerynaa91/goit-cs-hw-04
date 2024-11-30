@@ -1,0 +1,25 @@
+How to Find the Right AI Solution: 3 Innovative Techniques
+AI is such a unique technology that traditional approaches -- including RFPs -- aren’t likely to help you find the best AI solution to solve your problem. We offer three innovative approaches that may deliver better results.
+
+When it comes to artificial intelligence (AI), the traditional request for proposals (RFP) is often not the best tool available to determine which proposal meets the specific needs of the business. This is because the purchasing departments that issue RFPs find it hard to determine which specifications will help you find the best solution from potential vendors and suppliers to solve your problem. Smaller vendors, with highly specialized AI-based technologies trained on narrower and more detailed data sets, may have exactly what certain organizations in niche industries need, but the traditional RFP process leaves them either marginalized or completely out in the cold.
+
+Some of the dysfunction of RFPs occurs because they’re so rigid. RFPs are focused on helping organizations hit specific benchmarks according to precise timelines. As a result, they tend to encourage bidders to respond in very narrow ways to meet these specifications. This, in turn, discourages the submission of more dynamic and imaginative proposals that the company may not have considered. Worse, the organizations that issue RFPs tend to get what they ask for -- no more, no less.
+
+The real issue is that AI, as a product or service, doesn’t fit well into the RFP process. First, AI isn’t akin to a magic wand. It works slowly and deliberately, producing incremental -- but very real and significant -- improvements over time. These gains are hard to explain using an RFP, which, again, demands results that are achievable rapidly and according to a strict timeline. Instilling confidence -- without conveying false hopes or unrealistic expectations -- is difficult given the sheer volume of specific and detailed questions that RFPs require.
+
+A proof of concept (POC), which many vendors use to support their RFP submission, is also incompatible with AI in important ways. A POC relies on the results of a single experiment or pilot project. AI doesn’t work that way. For AI to do what it does best, it requires access to every bit of available data over an extended period of time. Limiting AI to a very brief timeline, which includes piecemeal and/or partial access to data, yields results that are effectively useless. A POC, in short, gives no indication of what the technology could do if these restrictions didn’t exist, which makes it hard for vendors of all sizes to use proofs of concept to bolster their submissions -- and even harder for organizations to trust what the POC is claiming.
+
+Approaches such as proof of value (POV) are slightly more practical in the sense that there’s room to describe how AI can solve concrete problems and deliver significant benefits to the company and its customers. However, this approach tends to assume that the company in question knows exactly what its problems are and what the solution or solutions should look like. AI’s chief value lies in identifying problems and then generating value as a result of these discoveries. It’s extremely difficult for AI vendors to promise specific results, never mind within a specific time period, when the issues themselves are not yet clearly defined. They might as well throw darts at a dartboard.
+
+Finding a Better Approach
+
+Multiple alternatives to the RFP process and traditional purchasing department practices have been proposed over the years, and some of them are quite good.
+
+Here are a few that could help buyers and sellers develop more productive, longer-term relationships:
+
+“Meet My Need” Problem Statement
+
+This approach effectively junks the entire RFP in favor of something far briefer -- usually 2-5 pages. It offers AI contractors the chance to outline how their technology might be able to resolve a specific problem, but the normal constraints of time and cost are relaxed and the importance of hitting specific benchmarks is toned down. Contractors don’t have to answer dozens of detailed questions or attempt to provide timelines. They only describe how they’d attempt to tackle a specific problem.
+
+There are several potential benefits to this approach. Whereas the RFP process typically takes months -- or even longer -- devising a robust answer to a very specific problem statement should take no more than several weeks. Documentation requirements are also minimized, and the open-ended nature of the question encourages more creative responses. There is more room to maneuver. Smaller contractors have an obvious chance to shine by submitting a novel and engaging proposal with unique selling points. In addition, because responding to this sort of problem statement can be done quickly, cheaply, and relatively easily, the process attracts more participants for the simple reason that they believe they’ll actually have a shot at winning. This provides potential buyers with a much wider group of options.
+
